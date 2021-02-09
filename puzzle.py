@@ -1,4 +1,5 @@
 """My solution to problem 2"""
+"""https://github.com/booyakashakawabangha/Lab_repository_1"""
 
 board = [\
     "**** ****",\
